@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "747101990929",
+    "project_id": "sinchcompleto",
+    "storage_bucket": "sinchcompleto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747101990929:android:086808e8c14ca7bf5201b0",
+        "android_client_info": {
+          "package_name": "com.br.androidsinchvoicecallcomplete"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747101990929-d1p5dlcf9qg5h4m7t4bvqa6llju8rvkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYmafLpcDPunhEgrXIGLtXIUIATzN96oE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747101990929-d1p5dlcf9qg5h4m7t4bvqa6llju8rvkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
